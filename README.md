@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm <b>Jay</b>
-
+Hi, I'm <b>Jay!</b> Applied Machine learning and Deep learning practitioner. I develop sclable🚀 and deployable💻 models for real-life🌱 deep learning applications.
+I'm fascinated about knowledge-based systems and highly optimistic about the future of blockchain, web3.0, eth ...
+<ul>
+  <li> 🔭 I’m currently working on java based projects for my internship at Thomson Reuters. </li>
+  <li> 🌱 I’m currently strengthening my concepts about <a href="https://www.coursera.org/learn/image-processing">Video and image processing</a> and learning about <a href="https://www.youtube.com/watch?v=M576WGiDBdQ&t=5158s"> Blockchain, Solidity</a> </li>
+ </ul>

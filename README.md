@@ -1,5 +1,5 @@
 ### Hello World 👋
-![](https://visitor-badge.glitch.me/badge?page_id=jaykshirsagar05.jaykshirsagar05)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=jaykshirsagar05.jaykshirsagar05) -->
 <br />
 Hi, I'm <b>Jay!</b> Applied Machine learning and Deep learning practitioner. I develop sclable🚀 and deployable💻 models for real-life🌱 deep learning applications.
 I'm fascinated about knowledge-based systems and highly optimistic about the future of blockchain, web3.0, eth ...
